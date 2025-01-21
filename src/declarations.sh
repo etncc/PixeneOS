@@ -21,7 +21,7 @@ WORKDIR=".tmp"
 # GitHub variables
 DOMAIN="https://github.com"
 REPOSITORY="PixeneOS" # GitHub repository name
-USER="etncc"    # GitHub username
+USER="pixincreate"    # GitHub username
 
 # Application version variables
 VERSION[AFSR]="${VERSION[AFSR]:-1.0.2}"
