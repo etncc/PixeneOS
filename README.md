@@ -1,4 +1,4 @@
-# PixeneOS (GrapheneOS++)
+# PixeneOS (GrapheneOS++) - For Pixel 6 (oriole)
 
 ## Description
 
@@ -367,6 +367,7 @@ Dependencies are downloaded from their respective repositories and are licensed 
   - [my-avbroot-setup](https://github.com/chenxiaolong/my-avbroot-setup)
   - [OEMUnlockOnBoot](https://github.com/chenxiaolong/OEMUnlockOnBoot)
 - [Rooted-Graphene](https://github.com/schnatterer/rooted-graphene) -- for motivation and inspiration
+- [PixeneOS](https://github.com/pixincreate/PixeneOS) -- for motivation and inspiration
 
 ## Disclaimer
 
